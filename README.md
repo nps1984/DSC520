@@ -1,4 +1,4 @@
-# DSC520 Oscar Predictions
+# Oscar Predictions
 This was one of my first major "data science" projects in my data science program. It was done in the R language, which admittedly I was very unfamiliar with.
 As you go through this, you will probably note that I didn't really know what I was doing in terms of data science. But I am highlighting this project because of a few things:
 * The R code is decent, especially for a beginner
